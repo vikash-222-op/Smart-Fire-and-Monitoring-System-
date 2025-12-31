@@ -9,9 +9,7 @@ The system detects fire-related hazards and automatically performs safety action
 ---
 
 ## 🖼️ Project Preview
-![Project Overview](images/project_overview.png)
-
-*(Add system overview or simulation screenshot here)*
+Img/Circuit Diagram.png
 
 ---
 
